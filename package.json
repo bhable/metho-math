@@ -1,0 +1,34 @@
+{
+  "name": "metho-math",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "typescript": "4.4.4"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "type": "module",
+  "module": "metho-math.js",
+  "sideEffects": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhable/metho-math.git"
+  },
+  "keywords": [],
+  "author": "Bernd Hable",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhable/metho-number/issues"
+  },
+  "homepage": "https://github.com/bhable/metho-number#readme"
+}
