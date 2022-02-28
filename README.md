@@ -7,16 +7,16 @@ or omited methods:
 Usage
 
 import {
-abs, acos, acosh, asin, asinh, atan, atan2, atanh, cbrt, ceil, clz32, cos,
-cosh, exp, expm1, floor, fround, hypot, imul, log, log10, log1p, log2, max,
-min, pow, random, round, sign, sin, sinh, sqrt, tan, tanh, trunc
+  abs, acos, acosh, asin, asinh, atan, atan2, atanh, cbrt, ceil, clz32, cos,
+  cosh, exp, expm1, floor, fround, hypot, imul, log, log10, log1p, log2, max,
+  min, pow, random, round, sign, sin, sinh, sqrt, tan, tanh, trunc
 } from "metho-math"
 
 // abs
--3[abs] // 3
+(-3)[abs] // 3
 
 // acos
--1[acos] // 3.141592653589793
+(-1)[acos] // 3.141592653589793
 
 // acosh
 2[acosh] // 1.3169578969248166
